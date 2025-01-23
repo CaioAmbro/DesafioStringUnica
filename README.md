@@ -34,7 +34,7 @@
 
 - "4, Rue de la République"    ->    ("Rue de la République", "4")
 
-## Minha solução:
+## Minha solução: RegEx:
 
 Para a solução do **caso simples**, um simples código de python que separa os elementos da string e evidência o último como o número do endereço ja é suficiente. Você consegue conferir nos documentos compartilhados.
 
