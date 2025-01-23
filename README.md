@@ -45,7 +45,7 @@ Ai que entra o **RegEx** (Expressão Regular / Regular Expression), que é uma s
 Link para entender melhor as Expressões Regulares:   [wikipedia/ExpressãoRegular](https://pt.wikipedia.org/wiki/Express%C3%A3o_regular)
 
 Existem diversas plataformas e ferramentas que auxiliam no entendimento e na utilização dessa solução pela internet. 
-Como por exemplo o site [REGEXR](https://regexr.com/ ) que trás a operação da expressão regular de forma mais visual e intuitiva.
+Como, por exemplo, o site [REGEXR](https://regexr.com/ ) que traz a operação da expressão regular de forma mais visual e intuitiva.
 
 Dentro do universo regex, existe a **biblioteca RE python**  que trabalha com operação de expressão regular, e foi a biblioteca que utilizei para resolver os casos complexos.
 
