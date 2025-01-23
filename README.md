@@ -26,7 +26,7 @@
 
 - "Calle Sagasta, 26"    ->    ("Calle Sagasta", "26")
 
-- "Calle 44 No 1991"    ->    ("Calle 44", "1991")
+- "Calle 44 NO 1991"    ->    ("Calle 44", "1991")
 
 - "100 Broadway Av"    ->    ("Broadway Av", "100")
 
