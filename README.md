@@ -49,11 +49,11 @@ Como, por exemplo, o site [REGEXR](https://regexr.com/ ) que traz a operação d
 
 Dentro do universo regex, existe a **biblioteca RE python**  que trabalha com operação de expressão regular, e foi a biblioteca que utilizei para resolver os casos complexos.
 
-Link da Biblioteca RE: [python.org/re](https://docs.python.org/pt-br/3/library/re.html) 
+Link da Biblioteca RE:   [python.org/re](https://docs.python.org/pt-br/3/library/re.html)  
 
 Utilizando RE junto ao python, com uma única variável poderosa podemos criar diversas camadas de exigências e restrições dentro de uma string concatenada.
 
-### Exemplo da variável regex que utilizei:
+### Exemplo da variável regex que utilizei:  
 
 - variável = r'^(.*?)(?:\s+(?:No|N|n|no|NO|Num|Número|Numero|num|número|numero#)?\s*(\d+\s*[A-Za-z]?))$'
 
